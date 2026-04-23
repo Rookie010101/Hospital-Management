@@ -172,14 +172,6 @@ Enforcing referential integrity by linking Medical Records to both Patients and 
 
 
 ![Monthly Revenue](screenshots/monthly_revenue.png)
-
-| Month    | Monthly Revenue | Cumulative Revenue |
-|----------|----------------|--------------------|
-| January  | ₹2,700         | ₹2,700             |
-| February | ₹4,300         | ₹7,000             |
-| March    | ₹2,200         | ₹9,200             |
-| April    | ₹2,900         | ₹12,100            |
-
 ---
 
 ### 5. 🏆 Most Visited Doctor
